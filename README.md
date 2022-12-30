@@ -1,3 +1,6 @@
+This is a FLOW dapp, built as part of the LearnWeb3 course for learning cadence - flow development.
+This dapp is about buying and managing flow domains (name service), like ETH's .ens
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
